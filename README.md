@@ -8,4 +8,4 @@ from the article summary to create the score key.
 This is accomplished by taking each unique character from the score key and counting how many times that characters shows in the summary
 we then divide that number by how many times the unique characters occurs in the score key
 
-returns the smallest of these values from all unique characters in the score key
+returns the smallest of these values
